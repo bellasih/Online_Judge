@@ -1,2 +1,2 @@
 # Online_Judge
-Just For Fun
+Collection of Codes in CPP format
